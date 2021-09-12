@@ -1,19 +1,7 @@
-## Python_Study
----
-### 파이썬 독학
-> 최근에 떠오르고 머신러닝에 파이썬을 즐겨쓴다고 들어 파이썬이라는 언어에 흥미가 생겨 공부를 시작했습니다. 기본적인 개념은 인프런 강의들을 통해 학습하고, 여러 알고리즘 개념과 문제들을 파이썬으로 풀이하면서 익숙해지려 합니다.
+## Python Web Scraping - with Nomad coders python challenge
 
-> 파이썬을 통해 다양한 프로젝트를 진행하고, 머신러닝 또한 경험할 수 있도록 하는 것을 목표로 합니다. 
-
-### 학습 과정
 ---
 
-#### <b>강의<b> 
-+ 인프런 : 파이썬 무료 강의 (기본편) - file : inflearn_study
-    + 2021-07-16 시작
+Nomad Coders의 'Python으로 웹 스크래퍼 만들기' 강의 수강 및 Nomad Coders에서 진행하는 Python Challenge 참여
 
-
-#### <b>알고리즘 공부 <b>
-+ 알고리즘 - file : algorithm
-+ 백준 문제풀이 - file : baekjoon
-
+2021.09.06 challenge started
