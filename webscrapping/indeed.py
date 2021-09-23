@@ -20,7 +20,7 @@ def get_last_page():
     # 'a'는 페이지를 가르키는 html에서 2,3,4,5 페이지를 찾는것
     pages = []
     for link in links[:-1]:
-        pages.append(int(link.string))
+        pages.append(int(link.string))  
 
     max_page = pages[-1]
     return max_page
